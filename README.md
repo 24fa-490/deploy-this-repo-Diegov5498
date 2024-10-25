@@ -28,10 +28,14 @@
 
 10. pnpm install *After figuring out how to get it to work"
 
+11. Create Supabase account, set up DB and change the '''PGCONNECT''' to connection URL provided
+
+12. Make Vercel Account and add the .env file to environment variables.
+
 *Comments and feedback welcome!*
 
 # Where am I deployed?
 
-<enter your URL here>
+<https://deploy-this-repo-diegov5498-prvexrgk0-diego-velas-projects.vercel.app/>
 
 
