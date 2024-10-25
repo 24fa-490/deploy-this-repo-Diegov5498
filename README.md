@@ -22,6 +22,10 @@
 
 7. npm run dev
 
+8. npm install --save-dev @sveltejs/adapter-vercel
+
+9. Configure svelte.config.js top line to '''import adapter from '@sveltejs/adapter-vercel';'''
+
 *Comments and feedback welcome!*
 
 # Where am I deployed?
