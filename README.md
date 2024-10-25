@@ -26,6 +26,8 @@
 
 9. Configure svelte.config.js top line to '''import adapter from '@sveltejs/adapter-vercel';'''
 
+10. pnpm install *After figuring out how to get it to work"
+
 *Comments and feedback welcome!*
 
 # Where am I deployed?
