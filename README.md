@@ -36,5 +36,5 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-diegov5498-prvexrgk0-diego-velas-projects.vercel.app/
+https://deploy-this-repo-diegov5498.vercel.app/
 
