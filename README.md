@@ -22,10 +22,19 @@
 
 7. npm run dev
 
+8. npm install --save-dev @sveltejs/adapter-vercel
+
+9. Configure svelte.config.js top line to '''import adapter from '@sveltejs/adapter-vercel';'''
+
+10. pnpm install *After figuring out how to get it to work"
+
+11. Create Supabase account, set up DB and change the '''PGCONNECT''' to connection URL provided
+
+12. Make Vercel Account and add the .env file to environment variables.
+
 *Comments and feedback welcome!*
 
 # Where am I deployed?
 
-<enter your URL here>
-
+https://deploy-this-repo-diegov5498.vercel.app/
 
